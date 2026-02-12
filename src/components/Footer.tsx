@@ -72,7 +72,7 @@ export default function Footer() {
               </a>
             </div>
             <div className="text-gray-400 text-sm">
-              <p>© 2024 Auracle SDG. All rights reserved.</p>
+              <p>© 2026 Auracle SDG. All rights reserved.</p>
             </div>
           </div>
         </div>
